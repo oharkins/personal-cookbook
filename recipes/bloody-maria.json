@@ -1,0 +1,103 @@
+{
+  "author": "Yolanda Gutierrez",
+  "recipe": "Bloody Maria",
+  "source": "https://www.allrecipes.com/bloody-maria-recipe-8730420",
+  "spec": "v0.1.3",
+  "tags": "cocktail,drink,mexican,tequila,spicy",
+  "servings": 1,
+  "difficulty": "beginner",
+  "cuisine": "Mexican",
+  "dietaryRestrictions": ["vegetarian", "vegan", "gluten-free"],
+  "temperatureUnit": "celsius",
+  "totalTime": {
+    "amount": 5,
+    "unit": "minutes"
+  },
+  "nutrition": {
+    "calories": 158,
+    "protein": 1,
+    "carbohydrates": 6,
+    "fat": 1,
+    "fiber": 1,
+    "sugar": 4,
+    "sodium": 706
+  },
+  "allIngredients": [
+    {
+      "item": "chile lime seasoning",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "tomato juice",
+      "amount": 4,
+      "unit": "cups"
+    },
+    {
+      "item": "tequila",
+      "amount": 2,
+      "unit": "cups"
+    },
+    {
+      "item": "lime juice",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "Worcestershire sauce",
+      "amount": 2,
+      "unit": "dashes"
+    },
+    {
+      "item": "hot sauce",
+      "amount": 2,
+      "unit": "dashes"
+    },
+    {
+      "item": "prepared horseradish",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "celery seed",
+      "amount": 0.25,
+      "unit": "teaspoon"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "cocktail shaker"
+    },
+    {
+      "item": "plate"
+    },
+    {
+      "item": "tall stemmed glass"
+    }
+  ],
+  "prelude": {
+    "description": "A Mexican twist on the classic Bloody Mary, this Bloody Maria uses tequila instead of vodka and Tajin seasoning for a spicy, citrusy rim. Perfect for brunch or any time you're craving a savory cocktail.",
+    "images": [
+      {
+        "src": "https://www.allrecipes.com/thmb/example.jpg",
+        "description": "Bloody Maria cocktail in a tall stemmed glass with Tajin rim"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Place Tajin on a plate. Moisten the rim of a glass with a lime wedge. Press the moistened rim into Tajin. Set aside.",
+      "prepTime": {
+        "amount": 2,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Fill a cocktail shaker with ice. Add tomato juice, tequila, lime juice, Worcestershire sauce, Tabasco, horseradish, and celery seed. Shake until the outside of shaker is frosted; strain into the prepared glass.",
+      "prepTime": {
+        "amount": 3,
+        "unit": "minutes"
+      }
+    }
+  ]
+} 

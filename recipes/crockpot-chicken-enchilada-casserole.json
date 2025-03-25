@@ -1,0 +1,134 @@
+{
+  "author": "Nicole McLaughlin",
+  "recipe": "Easy Creamy Crockpot Chicken Enchilada Casserole",
+  "source": "https://www.allrecipes.com/easy-creamy-crockpot-chicken-enchilada-casserole-recipe-11681159",
+  "spec": "v0.1.3",
+  "tags": "chicken,mexican,casserole,slow-cooker,comfort-food",
+  "servings": 8,
+  "difficulty": "beginner",
+  "cuisine": "Mexican",
+  "dietaryRestrictions": ["gluten-free"],
+  "temperatureUnit": "celsius",
+  "totalTime": {
+    "amount": 190,
+    "unit": "minutes"
+  },
+  "nutrition": {
+    "calories": 274,
+    "protein": 23,
+    "carbohydrates": 14,
+    "fat": 14,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 561
+  },
+  "allIngredients": [
+    {
+      "item": "skinless boneless chicken breasts",
+      "amount": 3,
+      "unit": "pieces"
+    },
+    {
+      "item": "kosher salt",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "black pepper",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "garlic powder",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "chili powder",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "tomatillo salsa",
+      "amount": 1.5,
+      "unit": "cups"
+    },
+    {
+      "item": "sour cream",
+      "amount": 0.5,
+      "unit": "cups"
+    },
+    {
+      "item": "corn tortillas",
+      "amount": 8,
+      "unit": "pieces"
+    },
+    {
+      "item": "pepper Jack cheese",
+      "amount": 8,
+      "unit": "ounces"
+    },
+    {
+      "item": "salsa",
+      "amount": 1,
+      "unit": "cup",
+      "optional": true
+    },
+    {
+      "item": "fresh cilantro",
+      "amount": 0.25,
+      "unit": "cup",
+      "optional": true
+    },
+    {
+      "item": "avocado",
+      "amount": 1,
+      "unit": "piece",
+      "optional": true
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "slow cooker"
+    },
+    {
+      "item": "mixing spoon"
+    }
+  ],
+  "prelude": {
+    "description": "This easy creamy crockpot chicken enchilada casserole takes only minutes to assemble. Tomatillo salsa and sour cream flavor the saucy chicken; corn tortilla wedges and pepper Jack cheese add the elements of green enchiladas to this comforting dish.",
+    "images": [
+      {
+        "src": "https://www.allrecipes.com/thmb/example.jpg",
+        "description": "Overhead view of crockpot chicken enchilada casserole on green plate"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Place chicken in crockpot and season with salt, pepper, garlic powder, and chili powder. Pour over salsa verde or enchilada sauce; cover and cook on High for 2 hours or Low for 3 1/2 hours.",
+      "cookTime": {
+        "amount": 120,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Shred chicken and stir in sour cream. Reserve 1/4 of the tortillas and stir in remaining tortilla pieces along with 1 1/4 cups cheese. Top with reserved tortilla triangles and remaining cheese. Cover and cook on High for 1 hour.",
+      "prepTime": {
+        "amount": 10,
+        "unit": "minutes"
+      },
+      "cookTime": {
+        "amount": 60,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Let stand 5 minutes before serving. Serve topped with desired toppings.",
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    }
+  ]
+} 
