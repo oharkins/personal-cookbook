@@ -1,0 +1,201 @@
+{
+  "author": "John Mitzewich",
+  "recipe": "Chef John's Peanut Curry Chicken",
+  "spec": "v0.1.2",
+  "tags": "curry, chicken, thai, peanut, main dish, dinner",
+  "servings": 8,
+  "prelude": {
+    "description": "A rich and flavorful peanut curry chicken that combines the best elements of various peanut curries. This version uses chicken broth instead of coconut milk for a less sweet, more savory profile. The dish features tender chicken thighs, fresh vegetables, and a complex spice blend that creates a perfect balance of flavors.",
+    "images": [
+      {
+        "src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F244979.jpg",
+        "description": "Chef John's Peanut Curry Chicken served over rice"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Mix together the spice blend ingredients in a small bowl",
+      "ingredients": [
+        {
+          "item": "kosher salt",
+          "amount": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "ground coriander",
+          "amount": 2,
+          "unit": "teaspoons"
+        },
+        {
+          "item": "ground cumin",
+          "amount": 2,
+          "unit": "teaspoons"
+        },
+        {
+          "item": "ground turmeric",
+          "amount": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "paprika",
+          "amount": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "cayenne pepper",
+          "amount": 0.5,
+          "unit": "teaspoon"
+        }
+      ],
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Cut chicken into 2-inch pieces and coat with half of the spice blend",
+      "ingredients": [
+        {
+          "item": "skinless, boneless chicken thighs",
+          "amount": 2.5,
+          "unit": "pounds"
+        }
+      ],
+      "prepTime": {
+        "amount": 10,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Heat oil in a heavy pot over high heat and brown chicken in two batches",
+      "ingredients": [
+        {
+          "item": "vegetable oil",
+          "amount": 2,
+          "unit": "tablespoons"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "heavy pot"
+        }
+      ],
+      "cookTime": {
+        "amount": 14,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Reduce heat to medium and sauté onion in chicken drippings",
+      "ingredients": [
+        {
+          "item": "yellow onion",
+          "amount": 1,
+          "unit": "cup"
+        }
+      ],
+      "cookTime": {
+        "amount": 2,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Add garlic, ginger, and remaining spice blend, cook until fragrant",
+      "ingredients": [
+        {
+          "item": "garlic",
+          "amount": 6,
+          "unit": "cloves"
+        },
+        {
+          "item": "fresh ginger",
+          "amount": 1,
+          "unit": "tablespoon"
+        }
+      ],
+      "cookTime": {
+        "amount": 1,
+        "unit": "minute"
+      }
+    },
+    {
+      "description": "Add chicken broth, browned chicken, peanut butter, ketchup, and brown sugar",
+      "ingredients": [
+        {
+          "item": "chicken broth",
+          "amount": 3.5,
+          "unit": "cups"
+        },
+        {
+          "item": "natural peanut butter",
+          "amount": 0.75,
+          "unit": "cup"
+        },
+        {
+          "item": "ketchup",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "brown sugar",
+          "amount": 1,
+          "unit": "tablespoon"
+        }
+      ],
+      "cookTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Simmer for 30 minutes, then add vegetables and peanuts",
+      "ingredients": [
+        {
+          "item": "zucchini",
+          "amount": 1,
+          "unit": "pound"
+        },
+        {
+          "item": "red bell pepper",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "green poblano pepper",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "roasted peanuts",
+          "amount": 0.5,
+          "unit": "cup"
+        }
+      ],
+      "cookTime": {
+        "amount": 40,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Serve over hot rice with lime wedges and garnish with cilantro and additional peanuts",
+      "ingredients": [
+        {
+          "item": "cooked rice",
+          "amount": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "lime",
+          "amount": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "fresh cilantro",
+          "amount": 3,
+          "unit": "tablespoons"
+        }
+      ]
+    }
+  ]
+} 

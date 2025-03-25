@@ -1,0 +1,144 @@
+{
+  "author": "Dara Michalski",
+  "recipe": "Instant Pot Chicken and Rice Soup",
+  "source": "https://www.cookincanuck.com/chicken-rice-soup-instant-pot/",
+  "spec": "v0.1.2",
+  "tags": "soup,chicken,instant-pot,healthy,gluten-free",
+  "servings": 7,
+  "prelude": {
+    "description": "Only 10 minutes of active prep time for this comforting Chicken and Rice Soup! It's a breeze to make in the Instant Pot. The brown rice cooks perfectly alongside the chicken, creating a naturally creamy texture without any cream.",
+    "images": [
+      {
+        "src": "https://www.cookincanuck.com/wp-content/uploads/2018/09/Instant-Pot-Chicken-and-Rice-Soup-1.jpg",
+        "description": "Creamy chicken and rice soup with vegetables"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Set the Instant Pot to Saute mode. Heat the olive oil, then add the onion, carrot and celery. Saute the vegetables, stirring occasionally, until starting to soften, 3 to 4 minutes.",
+      "ingredients": [
+        {
+          "item": "olive oil",
+          "amount": 2,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "yellow onion",
+          "amount": 0.5,
+          "unit": "whole"
+        },
+        {
+          "item": "carrot",
+          "amount": 1,
+          "unit": "large"
+        },
+        {
+          "item": "celery",
+          "amount": 1,
+          "unit": "stalk"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "Instant Pot"
+        }
+      ],
+      "cookTime": {
+        "amount": 4,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Add the garlic, thyme and rosemary. Cook, stirring constantly, for 30 seconds.",
+      "ingredients": [
+        {
+          "item": "garlic",
+          "amount": 3,
+          "unit": "cloves"
+        },
+        {
+          "item": "dried thyme",
+          "amount": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "dried rosemary",
+          "amount": 0.75,
+          "unit": "teaspoon"
+        }
+      ],
+      "cookTime": {
+        "amount": 0.5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Pour in the chicken broth and stir to combine.",
+      "ingredients": [
+        {
+          "item": "low sodium chicken broth",
+          "amount": 5,
+          "unit": "cups"
+        }
+      ]
+    },
+    {
+      "description": "Add the chicken breasts, brown rice, salt and pepper to the Instant Pot.",
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken breasts",
+          "amount": 1,
+          "unit": "pound"
+        },
+        {
+          "item": "brown rice",
+          "amount": 0.75,
+          "unit": "cup"
+        },
+        {
+          "item": "salt",
+          "amount": 0.5,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "ground pepper",
+          "amount": 0.25,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "description": "Put the lid on the Instant Pot, close the steam vent and set to HIGH pressure using the manual setting. Set the time to 13 minutes. It will take the Instant Pot about 15 minutes to reach pressure.",
+      "cookTime": {
+        "amount": 28,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Once the time is expired, use natural release for 10 minutes, then quick release.",
+      "prepTime": {
+        "amount": 10,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Transfer the chicken breasts to a cutting board, shred with 2 forks, then transfer back to the Instant Pot. Stir in the parsley and season with salt and pepper to taste. Serve.",
+      "ingredients": [
+        {
+          "item": "flat-leaf parsley",
+          "amount": 0.25,
+          "unit": "cup"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "cutting board"
+        },
+        {
+          "item": "forks"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,71 @@
+{
+  "author": "Traeger Kitchen",
+  "recipe": "Traeger Grilled Pork Chops",
+  "source": "https://www.traeger.com/recipes/simple-grilled-thick-pork-chops",
+  "spec": "v0.1.2",
+  "tags": "pork,grilling,bbq,main-dish",
+  "servings": 2,
+  "prelude": {
+    "description": "These thick-cut pork chops are seasoned with Traeger's Blackened Saskatchewan Rub and cooked over hickory wood for a perfect balance of smoky flavor and tenderness. The high heat grilling method ensures a juicy interior with a nicely charred exterior.",
+    "images": [
+      {
+        "src": "https://www.traeger.com/-/media/images/recipes/pork-chops.jpg",
+        "description": "Grilled pork chops with blackened seasoning"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Rub the salt and Traeger Blackened Saskatchewan Rub all over the pork chops.",
+      "ingredients": [
+        {
+          "item": "pork chops",
+          "amount": 2,
+          "unit": "whole",
+          "description": "1-1/2 inch thick"
+        },
+        {
+          "item": "kosher salt",
+          "amount": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "Traeger Blackened Saskatchewan Rub",
+          "amount": 2,
+          "unit": "tablespoon"
+        }
+      ]
+    },
+    {
+      "description": "When ready to cook, set the Traeger temperature to 450°F and preheat with the lid closed for 15 minutes.",
+      "equipment": [
+        {
+          "item": "Traeger wood pellet grill"
+        }
+      ],
+      "prepTime": {
+        "amount": 15,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Place the pork chops directly on grill grates, close the lid, and cook for 30 minutes, flipping once halfway through.",
+      "cookTime": {
+        "amount": 30,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Remove the pork chops from the grill and let rest 5 minutes before serving.",
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      },
+      "equipment": [
+        {
+          "item": "serving platter"
+        }
+      ]
+    }
+  ]
+} 

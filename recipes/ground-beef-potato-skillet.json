@@ -1,0 +1,131 @@
+{
+  "author": "Christine Pittman",
+  "recipe": "Ground Beef and Potato Skillet",
+  "source": "https://cookthestory.com/ground-beef-and-potato-skillet/",
+  "spec": "v0.1.2",
+  "tags": "american,beef,main-dish,one-pan,potato,weeknight-meals",
+  "servings": 4,
+  "prelude": {
+    "description": "A one-pan ground beef and potato skillet that's ready in under half an hour? That's right, this cheesy dish is the perfect weeknight comfort food. Note that the recipe is simple tasty as written, but if you want to add some heat, a pinch of cayenne or 1/2 teaspoon of hot sauce is a great addition (add it when you add the paprika). And, my favorite thing to do is to top each portion with a fried egg, or a good dollop of sour cream, or both!",
+    "images": [
+      {
+        "src": "https://cookthestory.com/wp-content/uploads/2024/09/ground-beef-potato-skillet-1.jpg",
+        "description": "Ground Beef and Potatoes in skillet topped with cheese and green onion"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Heat the oil in a large non-stick skillet over medium-high heat.",
+      "ingredients": [
+        {
+          "item": "oil",
+          "amount": 1,
+          "unit": "tablespoon"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "large non-stick skillet"
+        }
+      ]
+    },
+    {
+      "description": "Add the potatoes in a single layer and cook undisturbed until lightly browned underneath, about 2 minutes. Stir and then cook undisturbed to brown them some more for another 2 minutes.",
+      "ingredients": [
+        {
+          "item": "potatoes",
+          "amount": 1,
+          "unit": "pound"
+        }
+      ],
+      "cookTime": {
+        "amount": 4,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Use a wooden spoon to move potatoes to one side of the skillet. Add ground beef to other side of skillet. Sprinkle the potatoes and the beef evenly with the salt and pepper.",
+      "ingredients": [
+        {
+          "item": "lean ground beef",
+          "amount": 1,
+          "unit": "pound"
+        },
+        {
+          "item": "salt",
+          "amount": 1.5,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "pepper",
+          "amount": 0.5,
+          "unit": "teaspoon"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "wooden spoon"
+        }
+      ]
+    },
+    {
+      "description": "Use wooden spoon to break up ground beef and then to spread it to cover the half of the skillet that is not taken by potatoes. Press down on the beef with the spoon. Cook the beef for 4 minutes undisturbed while stirring the potatoes occasionally.",
+      "cookTime": {
+        "amount": 4,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "If desired, use a spoon to scoop off any excess fat that has come from the beef.",
+      "optional": true
+    },
+    {
+      "description": "On top of the potatoes and beef, add the onion, bell pepper, garlic, and paprika. Flip and stir until everything is evenly mixed together.",
+      "ingredients": [
+        {
+          "item": "onion",
+          "amount": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "bell pepper",
+          "amount": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "garlic",
+          "amount": 2,
+          "unit": "cloves"
+        },
+        {
+          "item": "smoked paprika",
+          "amount": 0.5,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "description": "Cook, stirring occasionally, until vegetables are softened, beef is no longer pink anywhere, and potatoes are fork-tender, 3-4 minutes.",
+      "cookTime": {
+        "amount": 4,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Turn off heat. Sprinkle with the cheese and allow the steam to melt it. Top with the green onions and serve.",
+      "ingredients": [
+        {
+          "item": "shredded Cheddar cheese",
+          "amount": 1,
+          "unit": "cup"
+        },
+        {
+          "item": "green onions",
+          "amount": 2,
+          "unit": "whole"
+        }
+      ]
+    }
+  ]
+} 

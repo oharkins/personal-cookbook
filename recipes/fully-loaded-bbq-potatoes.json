@@ -1,0 +1,105 @@
+{
+  "author": "Malcom Reed",
+  "recipe": "Fully Loaded BBQ Potatoes with Pulled Pork",
+  "source": "https://howtobbqright.com/2021/05/20/fully-loaded-bbq-potatoes-with-pulled-pork/",
+  "spec": "v0.1.2",
+  "tags": "bbq,potato,pork,side-dish,grilling",
+  "servings": 4,
+  "prelude": {
+    "description": "These Fully Loaded BBQ Potatoes are stuffed with pulled pork, cheese, and BBQ sauce for the ultimate BBQ side dish. Perfect for any backyard cookout or family dinner.",
+    "images": [
+      {
+        "src": "https://howtobbqright.com/wp-content/uploads/2021/05/fully-loaded-bbq-potatoes-1.jpg",
+        "description": "Fully loaded BBQ potatoes topped with pulled pork, cheese, and green onions"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Preheat your grill to 400°F (204°C). Wash and dry the potatoes thoroughly.",
+      "ingredients": [
+        {
+          "item": "large russet potatoes",
+          "amount": 4,
+          "unit": "whole"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "grill"
+        }
+      ]
+    },
+    {
+      "description": "Rub each potato with olive oil and season generously with BBQ rub. Place potatoes directly on the grill grates.",
+      "ingredients": [
+        {
+          "item": "olive oil",
+          "amount": 2,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "BBQ rub",
+          "amount": 2,
+          "unit": "tablespoon"
+        }
+      ],
+      "cookTime": {
+        "amount": 60,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "While potatoes are cooking, prepare the toppings. Shred the cheese, chop the green onions, and warm up the pulled pork.",
+      "ingredients": [
+        {
+          "item": "shredded cheddar cheese",
+          "amount": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "green onions",
+          "amount": 4,
+          "unit": "whole"
+        },
+        {
+          "item": "pulled pork",
+          "amount": 2,
+          "unit": "cups"
+        }
+      ]
+    },
+    {
+      "description": "Once potatoes are tender (about 60 minutes), remove them from the grill. Cut each potato lengthwise and fluff the insides with a fork.",
+      "equipment": [
+        {
+          "item": "fork"
+        }
+      ]
+    },
+    {
+      "description": "Stuff each potato with pulled pork, drizzle with BBQ sauce, and top with shredded cheese. Return to the grill until cheese is melted.",
+      "ingredients": [
+        {
+          "item": "BBQ sauce",
+          "amount": 0.5,
+          "unit": "cup"
+        }
+      ],
+      "cookTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Garnish with chopped green onions and serve immediately.",
+      "ingredients": [
+        {
+          "item": "green onions",
+          "amount": 2,
+          "unit": "whole"
+        }
+      ]
+    }
+  ]
+} 

@@ -1,0 +1,79 @@
+{
+  "author": "Natasha Kravchuk",
+  "recipe": "Slow Cooker BBQ Chicken",
+  "source": "https://natashaskitchen.com/slow-cooker-bbq-chicken-recipe/",
+  "spec": "v0.1.2",
+  "tags": "american,chicken,main-dish,slow-cooker",
+  "servings": 8,
+  "prelude": {
+    "description": "This crockpot pulled chicken is so easy to make – everything just goes into the slow cooker without any special prep. It's fall-apart tender, juicy and delicious. We put it on rolls with our coconut coleslaw and crisp dill pickle chips. It was sweet, salty, savory and so satisfying.",
+    "images": [
+      {
+        "src": "https://natashaskitchen.com/wp-content/uploads/2022/06/Slow-Cooker-BBQ-Chicken-1.jpg",
+        "description": "Slow cooker BBQ chicken served in a bun with coleslaw"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Stir together all sauce ingredients in a 5-6 qt slow cooker.",
+      "ingredients": [
+        {
+          "item": "BBQ sauce",
+          "amount": 1.5,
+          "unit": "cups"
+        },
+        {
+          "item": "onion",
+          "amount": 0.5,
+          "unit": "whole"
+        },
+        {
+          "item": "olive oil",
+          "amount": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "Worcestershire sauce",
+          "amount": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "brown sugar",
+          "amount": 2,
+          "unit": "tablespoon"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "5-6 quart slow cooker"
+        }
+      ]
+    },
+    {
+      "description": "Add chicken and turn to coat. Cover and cook on high for 2 to 3 hours or for 6 to 7 hours on low. Check on the chicken earlier if using smaller chicken pieces, if making a smaller batch, or if you know your slow cooker runs hot. Chicken is done when cooked through to an internal temperature of 165°F and is easy to shred.",
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken breasts",
+          "amount": 3,
+          "unit": "pound"
+        }
+      ],
+      "cookTime": {
+        "amount": 180,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Remove chicken to a cutting board and shred each breast using two forks. Place shredded chicken back in the crock pot and stir to coat with the yummy sauce.",
+      "equipment": [
+        {
+          "item": "cutting board"
+        },
+        {
+          "item": "forks"
+        }
+      ]
+    }
+  ]
+} 

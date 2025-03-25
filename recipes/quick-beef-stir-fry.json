@@ -1,0 +1,112 @@
+{
+  "author": "inesgosner",
+  "recipe": "Quick Beef Stir-Fry",
+  "spec": "v0.1.2",
+  "tags": "beef, stir-fry, asian, quick, dinner, main dish",
+  "servings": 4,
+  "prelude": {
+    "description": "A quick and easy beef stir-fry recipe perfect for busy weeknights. This classic dish combines tender beef strips with fresh vegetables in a simple soy sauce-based sauce. Ready in just 25 minutes, it's a versatile recipe that can be customized with your favorite vegetables.",
+    "images": [
+      {
+        "src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F228823.jpg",
+        "description": "Quick Beef Stir-Fry with vegetables"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Cut beef into 2-inch strips and prepare all vegetables",
+      "ingredients": [
+        {
+          "item": "beef sirloin",
+          "amount": 1,
+          "unit": "pound"
+        },
+        {
+          "item": "broccoli florets",
+          "amount": 1.5,
+          "unit": "cups"
+        },
+        {
+          "item": "red bell pepper",
+          "amount": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "carrots",
+          "amount": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "green onion",
+          "amount": 1,
+          "unit": "whole"
+        },
+        {
+          "item": "garlic",
+          "amount": 1,
+          "unit": "teaspoon"
+        }
+      ],
+      "prepTime": {
+        "amount": 15,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Heat vegetable oil in a large wok or skillet over medium-high heat",
+      "ingredients": [
+        {
+          "item": "vegetable oil",
+          "amount": 2,
+          "unit": "tablespoons"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "wok"
+        },
+        {
+          "item": "skillet"
+        }
+      ],
+      "cookTime": {
+        "amount": 1,
+        "unit": "minute"
+      }
+    },
+    {
+      "description": "Add beef and stir-fry until browned, 3 to 4 minutes",
+      "cookTime": {
+        "amount": 4,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Move beef to the side of the wok and add vegetables to the center",
+      "cookTime": {
+        "amount": 2,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Stir beef into vegetables and season with soy sauce and sesame seeds",
+      "ingredients": [
+        {
+          "item": "soy sauce",
+          "amount": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "item": "sesame seeds",
+          "amount": 2,
+          "unit": "tablespoons"
+        }
+      ],
+      "cookTime": {
+        "amount": 2,
+        "unit": "minutes"
+      }
+    }
+  ]
+} 

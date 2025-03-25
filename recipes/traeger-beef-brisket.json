@@ -1,0 +1,114 @@
+{
+  "author": "Traeger",
+  "recipe": "Traeger Beef Brisket",
+  "source": "https://www.traeger.com/recipes/beef-brisket",
+  "spec": "v0.1.2",
+  "tags": "beef,bbq,smoking,main-dish",
+  "servings": 12,
+  "prelude": {
+    "description": "A classic beef brisket recipe cooked on a Traeger wood pellet grill. This recipe uses a simple rub and the low-and-slow smoking technique to create tender, flavorful brisket with a perfect bark.",
+    "images": [
+      {
+        "src": "https://www.traeger.com/recipes/beef-brisket",
+        "description": "Smoked beef brisket with perfect bark and smoke ring"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "When ready to cook, set Traeger temperature to 225°F and preheat, lid closed for 15 minutes. For optimal flavor, use Super Smoke if available.",
+      "equipment": [
+        {
+          "item": "Traeger wood pellet grill"
+        }
+      ],
+      "prepTime": {
+        "amount": 15,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "For the Rub: Mix together garlic powder, onion powder, paprika, chili pepper, kosher salt and pepper in a small bowl.",
+      "ingredients": [
+        {
+          "item": "garlic powder",
+          "amount": 2,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "onion powder",
+          "amount": 2,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "paprika",
+          "amount": 2,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "chili powder",
+          "amount": 2,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "kosher salt",
+          "amount": 2,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "black pepper",
+          "amount": 2,
+          "unit": "tablespoon"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "small bowl"
+        }
+      ]
+    },
+    {
+      "description": "Season the brisket on all sides with the rub.",
+      "ingredients": [
+        {
+          "item": "whole beef brisket",
+          "amount": 12,
+          "unit": "pound"
+        }
+      ]
+    },
+    {
+      "description": "Place brisket, fat side down on grill grate. Cook brisket until it reaches an internal temperature of 160°F, about 5 to 6 hours.",
+      "cookTime": {
+        "amount": 360,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Double wrap meat in aluminum foil and add the beef broth to the foil packet. Return smoked brisket to grill and cook until it reaches an internal temperature of 204°F, about 3 hours more.",
+      "ingredients": [
+        {
+          "item": "beef broth",
+          "amount": 1,
+          "unit": "cup"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "aluminum foil"
+        }
+      ],
+      "cookTime": {
+        "amount": 180,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Once finished, remove from grill, unwrap from foil and let rest for 15 minutes. Slice against the grain and serve.",
+      "prepTime": {
+        "amount": 15,
+        "unit": "minutes"
+      }
+    }
+  ]
+} 

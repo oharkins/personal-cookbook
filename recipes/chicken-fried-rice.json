@@ -1,0 +1,112 @@
+{
+  "author": "Jaclyn",
+  "recipe": "Chicken Fried Rice",
+  "source": "https://www.cookingclassy.com/chicken-fried-rice/",
+  "spec": "v0.1.2",
+  "tags": "asian,healthy,main-dish,poultry",
+  "servings": 3,
+  "prelude": {
+    "description": "An easy flavorful fried rice that's made with brown rice and lean chicken breast instead of white rice and ham. A recipe everyone can agree on! Hearty and so satisfying. It makes great leftovers too.",
+    "images": [
+      {
+        "src": "https://www.cookingclassy.com/wp-content/uploads/2018/03/chicken-fried-rice-1.jpg",
+        "description": "Chicken Fried Rice with brown rice, chicken, vegetables, and eggs"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "In a large non-stick wok or skillet, heat 1 1/2 tsp sesame oil and 1 1/2 tsp of the canola oil over medium-high heat. Once hot, add chicken pieces, season lightly with salt and pepper and saute until cooked through, about 5 - 6 minutes. Transfer chicken to a plate and set aside.",
+      "ingredients": [
+        {
+          "item": "boneless skinless chicken breasts",
+          "amount": 0.75,
+          "unit": "pound"
+        },
+        {
+          "item": "toasted sesame oil",
+          "amount": 1.5,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "canola oil",
+          "amount": 1.5,
+          "unit": "teaspoon"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "large non-stick wok or skillet"
+        }
+      ],
+      "cookTime": {
+        "amount": 6,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Return skillet to medium-high heat, add remaining 1 1/2 tsp sesame oil and 1 1/2 tsp canola oil. Add peas and carrots blend and green onions and saute 1 minute, then add garlic and saute 1 minute longer. Push veggies to edges of pan, add eggs in center and cook and scramble.",
+      "ingredients": [
+        {
+          "item": "frozen peas and carrots blend",
+          "amount": 1.33,
+          "unit": "cups"
+        },
+        {
+          "item": "green onions",
+          "amount": 3,
+          "unit": "whole"
+        },
+        {
+          "item": "garlic",
+          "amount": 2,
+          "unit": "cloves"
+        },
+        {
+          "item": "large eggs",
+          "amount": 2,
+          "unit": "whole"
+        },
+        {
+          "item": "toasted sesame oil",
+          "amount": 1.5,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "canola oil",
+          "amount": 1.5,
+          "unit": "teaspoon"
+        }
+      ],
+      "cookTime": {
+        "amount": 2,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Return chicken to skillet along with rice. Add in soy sauce and season with salt and pepper to taste. Serve warm with Sriracha to taste if desired.",
+      "ingredients": [
+        {
+          "item": "cooked long-grain brown rice",
+          "amount": 3,
+          "unit": "cups"
+        },
+        {
+          "item": "low-sodium soy sauce",
+          "amount": 3,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "Sriracha",
+          "amount": 1,
+          "unit": "tablespoon",
+          "optional": true
+        }
+      ],
+      "cookTime": {
+        "amount": 2,
+        "unit": "minutes"
+      }
+    }
+  ]
+} 

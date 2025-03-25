@@ -1,0 +1,143 @@
+{
+  "author": "Shuang Shuang Liang",
+  "recipe": "Thai Peanut Chicken Curry",
+  "spec": "v0.1.2",
+  "tags": "thai, curry, chicken, instant pot, dairy-free, gluten-free",
+  "servings": 4,
+  "prelude": {
+    "description": "A creamy and flavorful Thai Peanut Chicken Curry made in the Instant Pot. This dish combines the rich flavors of peanut butter, coconut milk, and Thai red curry paste for an authentic taste that's ready in just 20 minutes.",
+    "images": [
+      {
+        "src": "https://shuangyskitchensink.com/wp-content/uploads/2021/08/Thai-Peanut-Chicken-Curry-1.jpg",
+        "description": "Thai Peanut Chicken Curry served over rice"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Cut chicken into 1-inch cubes and marinate in a mixture of arrowroot flour, salt, and water",
+      "ingredients": [
+        {
+          "item": "boneless chicken thighs",
+          "amount": 1.5,
+          "unit": "pounds"
+        },
+        {
+          "item": "arrowroot flour",
+          "amount": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "item": "water",
+          "amount": 2,
+          "unit": "tablespoons"
+        },
+        {
+          "item": "salt",
+          "amount": 1,
+          "unit": "teaspoon"
+        }
+      ],
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Mince fresh ginger and chop red bell pepper",
+      "ingredients": [
+        {
+          "item": "fresh ginger",
+          "amount": 1,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "red bell pepper",
+          "amount": 1,
+          "unit": "cup"
+        }
+      ],
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Turn Instant Pot to sauté mode and heat oil until shimmering. Sauté ginger for 1-2 minutes until fragrant",
+      "ingredients": [
+        {
+          "item": "cooking oil",
+          "amount": 1,
+          "unit": "tablespoon"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "Instant Pot"
+        }
+      ],
+      "cookTime": {
+        "amount": 2,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Add marinated chicken and sear all sides for a few minutes",
+      "cookTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Add peanut butter, curry paste, and stir to combine",
+      "ingredients": [
+        {
+          "item": "natural peanut butter",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "Thai red curry paste",
+          "amount": 2,
+          "unit": "tablespoons"
+        }
+      ],
+      "cookTime": {
+        "amount": 1,
+        "unit": "minute"
+      }
+    },
+    {
+      "description": "Add coconut milk and red bell pepper, then combine well",
+      "ingredients": [
+        {
+          "item": "coconut milk",
+          "amount": 1,
+          "unit": "cup"
+        }
+      ],
+      "cookTime": {
+        "amount": 1,
+        "unit": "minute"
+      }
+    },
+    {
+      "description": "Seal the lid and pressure cook on high for 15 minutes",
+      "cookTime": {
+        "amount": 15,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Quick release the pressure and serve over jasmine rice or cauliflower rice",
+      "ingredients": [
+        {
+          "item": "jasmine rice",
+          "amount": 2,
+          "unit": "cups",
+          "optional": true
+        }
+      ]
+    }
+  ]
+} 

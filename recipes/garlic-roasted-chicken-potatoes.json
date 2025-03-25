@@ -1,0 +1,102 @@
+{
+  "author": "Debi Blair McGinness",
+  "recipe": "Garlic Roasted Chicken and Potatoes",
+  "source": "https://www.allrecipes.com/recipe/216398/garlic-roasted-chicken-and-potatoes/",
+  "spec": "v0.1.2",
+  "tags": "chicken,potato,roasted,main-dish,one-pan",
+  "servings": 8,
+  "prelude": {
+    "description": "A quick and easy one-pan meal with tender chicken and perfectly roasted potatoes. The garlic cloves become soft and spreadable during cooking, adding a rich flavor to the dish. Serve with a mixed greens salad for a complete meal.",
+    "images": [
+      {
+        "src": "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F216398.jpg",
+        "description": "Roasted chicken and potatoes with garlic"
+      }
+    ]
+  },
+  "preheat": 200,
+  "steps": [
+    {
+      "description": "Place the butter into a roasting pan, and melt in the oven. When butter is melted, swirl to coat the bottom of the roasting pan.",
+      "ingredients": [
+        {
+          "item": "butter",
+          "amount": 0.25,
+          "unit": "cup"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "roasting pan"
+        }
+      ]
+    },
+    {
+      "description": "Place the chicken drumsticks and thighs, potatoes, and unpeeled garlic cloves into the pan. Sprinkle with salt and black pepper; turn the chicken, potatoes, and garlic to coat with butter.",
+      "ingredients": [
+        {
+          "item": "chicken leg quarters",
+          "amount": 6,
+          "unit": "whole"
+        },
+        {
+          "item": "Yukon Gold potatoes",
+          "amount": 6,
+          "unit": "large"
+        },
+        {
+          "item": "garlic",
+          "amount": 24,
+          "unit": "cloves"
+        },
+        {
+          "item": "salt",
+          "amount": 1,
+          "unit": "teaspoon"
+        },
+        {
+          "item": "ground black pepper",
+          "amount": 0.5,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "description": "Bake in the preheated oven until the chicken is no longer pink inside and the juices run clear, about 40 minutes, basting 3 times with pan drippings.",
+      "cookTime": {
+        "amount": 40,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Brush maple syrup over the chicken pieces, and spoon pan drippings over the potatoes.",
+      "ingredients": [
+        {
+          "item": "maple syrup",
+          "amount": 0.25,
+          "unit": "cup"
+        }
+      ]
+    },
+    {
+      "description": "Return to oven, and bake until the chicken and potatoes are tender and browned, about 20 more minutes. An instant-read thermometer inserted into a thick part of a thigh should read at least 165 degrees F (74 degrees C).",
+      "cookTime": {
+        "amount": 20,
+        "unit": "minutes"
+      },
+      "equipment": [
+        {
+          "item": "instant-read thermometer"
+        }
+      ]
+    },
+    {
+      "description": "To serve, squeeze garlic from the baked cloves, and spread the soft garlic over the chicken. Pour pan juices over chicken and potatoes.",
+      "equipment": [
+        {
+          "item": "serving platter"
+        }
+      ]
+    }
+  ]
+} 

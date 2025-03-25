@@ -1,0 +1,158 @@
+{
+  "author": "Breanna Stark",
+  "recipe": "Brisket Fried Rice",
+  "source": "https://beeflovingtexans.com/recipe/brisket-fried-rice/",
+  "spec": "v0.1.2",
+  "tags": "beef,rice,asian,leftovers,main-dish",
+  "servings": 6,
+  "prelude": {
+    "description": "Transform leftover smoked brisket into a delicious fried rice dish. This recipe combines tender brisket pieces with perfectly cooked rice, vegetables, and eggs for a satisfying meal that's ready in about 50 minutes. The dish can be stored in the fridge for up to 3 days.",
+    "images": [
+      {
+        "src": "https://beeflovingtexans.com/wp-content/uploads/2024/03/brisket-fried-rice.jpg",
+        "description": "Brisket fried rice with vegetables and eggs"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Bring 4 cups of water to a boil and add 2 cups of white rice. Reduce the heat to a simmer, cover the pot, and let the rice cook for 20 minutes; store rice in a covered bowl in the refrigerator overnight.",
+      "ingredients": [
+        {
+          "item": "white rice",
+          "amount": 2,
+          "unit": "cups"
+        },
+        {
+          "item": "water",
+          "amount": 4,
+          "unit": "cups"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "pot"
+        },
+        {
+          "item": "bowl"
+        }
+      ],
+      "cookTime": {
+        "amount": 20,
+        "unit": "minutes"
+      },
+      "prepTime": {
+        "amount": 24,
+        "unit": "hours"
+      }
+    },
+    {
+      "description": "Pre-heat griddle or wok to MEDIUM-HIGH heat. Place leftover Brisket on the griddle and heat until warm. Chop into bite-sized pieces.",
+      "ingredients": [
+        {
+          "item": "smoked brisket",
+          "amount": 1,
+          "unit": "pound"
+        }
+      ],
+      "equipment": [
+        {
+          "item": "griddle or wok"
+        }
+      ]
+    },
+    {
+      "description": "Add 1/2 Tbsp. of butter to the griddle and place your minced garlic on top. Pour the bag of frozen vegetables on top of the butter and garlic. Spread out evenly to cook and stir them every 2-3 minutes.",
+      "ingredients": [
+        {
+          "item": "unsalted butter",
+          "amount": 0.5,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "garlic",
+          "amount": 4,
+          "unit": "cloves"
+        },
+        {
+          "item": "frozen mixed vegetables",
+          "amount": 16,
+          "unit": "ounces"
+        }
+      ],
+      "cookTime": {
+        "amount": 6,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Add 1/2 Tbsp. butter to another area of griddle and place your bean sprouts on top. Stir them every 2-3 minutes.",
+      "ingredients": [
+        {
+          "item": "unsalted butter",
+          "amount": 0.5,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "bean sprouts",
+          "amount": 1,
+          "unit": "cup"
+        }
+      ],
+      "cookTime": {
+        "amount": 6,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Add 1 Tbsp. butter to another section of the griddle and pour chilled rice on top. Spread out evenly.",
+      "ingredients": [
+        {
+          "item": "unsalted butter",
+          "amount": 1,
+          "unit": "tablespoon"
+        }
+      ]
+    },
+    {
+      "description": "Pour the soy sauce and sesame oil over the top of the rice and stir until it starts to get brown and crispy.",
+      "ingredients": [
+        {
+          "item": "reduced sodium soy sauce",
+          "amount": 0.5,
+          "unit": "cup"
+        },
+        {
+          "item": "sesame oil",
+          "amount": 0.5,
+          "unit": "teaspoon"
+        }
+      ]
+    },
+    {
+      "description": "When the rice is almost done, create a well in the center of the rice, add the remaining 1-1/2 Tbsp. of butter and crack in the eggs. Scramble until fully cooked.",
+      "ingredients": [
+        {
+          "item": "unsalted butter",
+          "amount": 1.5,
+          "unit": "tablespoon"
+        },
+        {
+          "item": "eggs",
+          "amount": 4,
+          "unit": "whole"
+        }
+      ]
+    },
+    {
+      "description": "When the eggs are fully cooked, combine all of the vegetables, Brisket, bean sprouts, and rice together until fully combined. Season to taste with additional soy sauce if needed.",
+      "ingredients": [
+        {
+          "item": "green onions",
+          "amount": 0.25,
+          "unit": "cup"
+        }
+      ]
+    }
+  ]
+} 
