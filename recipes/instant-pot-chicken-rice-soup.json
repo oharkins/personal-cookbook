@@ -2,7 +2,7 @@
   "author": "Dara Michalski",
   "recipe": "Instant Pot Chicken and Rice Soup",
   "source": "https://www.cookincanuck.com/chicken-rice-soup-instant-pot/",
-  "spec": "v0.1.2",
+  "spec": "v0.1.3",
   "tags": "soup,chicken,instant-pot,healthy,gluten-free",
   "servings": 7,
   "prelude": {
@@ -140,5 +140,104 @@
         }
       ]
     }
+  ],
+  "yield": "7 servings",
+  "difficulty": "intermediate",
+  "cuisine": "American",
+  "dietaryRestrictions": [
+    "gluten-free"
+  ],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 60,
+    "unit": "minutes"
+  },
+  "storage": "Refrigerate leftovers in an airtight container for up to 3 days.",
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbohydrates": 30,
+    "fat": 15,
+    "fiber": 3,
+    "sugar": 2,
+    "sodium": 450
+  },
+  "allIngredients": [
+    {
+      "item": "olive oil",
+      "amount": 2,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "yellow onion",
+      "amount": 0.5,
+      "unit": "whole"
+    },
+    {
+      "item": "carrot",
+      "amount": 1,
+      "unit": "large"
+    },
+    {
+      "item": "celery",
+      "amount": 1,
+      "unit": "stalk"
+    },
+    {
+      "item": "garlic",
+      "amount": 3,
+      "unit": "cloves"
+    },
+    {
+      "item": "dried thyme",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "dried rosemary",
+      "amount": 0.75,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "low sodium chicken broth",
+      "amount": 5,
+      "unit": "cups"
+    },
+    {
+      "item": "boneless skinless chicken breasts",
+      "amount": 1,
+      "unit": "pound"
+    },
+    {
+      "item": "brown rice",
+      "amount": 0.75,
+      "unit": "cup"
+    },
+    {
+      "item": "salt",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "ground pepper",
+      "amount": 0.25,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "flat-leaf parsley",
+      "amount": 0.25,
+      "unit": "cup"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "Instant Pot"
+    },
+    {
+      "item": "cutting board"
+    },
+    {
+      "item": "forks"
+    }
   ]
-} 
+}

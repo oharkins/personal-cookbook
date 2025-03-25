@@ -23,7 +23,8 @@
         "enum": [
           "v0.1.0",
           "v0.1.1",
-          "v0.1.2"
+          "v0.1.2",
+          "v0.1.3"
         ]
       },
       "tags": {
@@ -33,6 +34,100 @@
       "servings": {
         "type": "number",
         "description": "Nominal number of servings created"
+      },
+      "yield": {
+        "type": "string",
+        "description": "Specific yield amount (e.g., 'makes 24 cookies')"
+      },
+      "difficulty": {
+        "type": "string",
+        "description": "Recipe difficulty level",
+        "enum": ["beginner", "intermediate", "advanced"]
+      },
+      "cuisine": {
+        "type": "string",
+        "description": "Type of cuisine (e.g., Italian, Mexican, Japanese)"
+      },
+      "dietaryRestrictions": {
+        "type": "array",
+        "description": "List of dietary restrictions",
+        "items": {
+          "type": "string",
+          "enum": [
+            "vegetarian",
+            "vegan",
+            "gluten-free",
+            "dairy-free",
+            "nut-free",
+            "kosher",
+            "halal",
+            "keto",
+            "paleo",
+            "low-carb"
+          ]
+        }
+      },
+      "temperatureUnit": {
+        "type": "string",
+        "description": "Unit system for temperature measurements",
+        "enum": ["celsius", "fahrenheit"],
+        "default": "celsius"
+      },
+      "totalTime": {
+        "$ref": "#/definitions/time",
+        "description": "Total time to complete the recipe"
+      },
+      "storage": {
+        "type": "string",
+        "description": "Instructions for storing leftovers"
+      },
+      "nutrition": {
+        "type": "object",
+        "description": "Nutritional information per serving",
+        "properties": {
+          "calories": {
+            "type": "number",
+            "description": "Calories per serving"
+          },
+          "protein": {
+            "type": "number",
+            "description": "Protein in grams per serving"
+          },
+          "carbohydrates": {
+            "type": "number",
+            "description": "Carbohydrates in grams per serving"
+          },
+          "fat": {
+            "type": "number",
+            "description": "Fat in grams per serving"
+          },
+          "fiber": {
+            "type": "number",
+            "description": "Fiber in grams per serving"
+          },
+          "sugar": {
+            "type": "number",
+            "description": "Sugar in grams per serving"
+          },
+          "sodium": {
+            "type": "number",
+            "description": "Sodium in milligrams per serving"
+          }
+        }
+      },
+      "allIngredients": {
+        "type": "array",
+        "description": "Complete list of all ingredients needed",
+        "items": {
+          "$ref": "#/definitions/ingredient"
+        }
+      },
+      "allEquipment": {
+        "type": "array",
+        "description": "Complete list of all equipment needed",
+        "items": {
+          "$ref": "#/definitions/equipment"
+        }
       },
       "prelude": {
         "type": "object",

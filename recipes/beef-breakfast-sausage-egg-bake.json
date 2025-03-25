@@ -2,9 +2,121 @@
   "author": "Beef Loving Texans",
   "recipe": "Beef Breakfast Sausage and Goat Cheese Egg Bake",
   "source": "https://beeflovingtexans.com/recipe/beef-breakfast-sausage-and-goat-cheese-egg-bake/",
-  "spec": "v0.1.2",
+  "spec": "v0.1.3",
   "tags": "beef,breakfast,eggs,brunch,casserole",
   "servings": 10,
+  "yield": "10 servings",
+  "difficulty": "intermediate",
+  "cuisine": "American",
+  "dietaryRestrictions": [
+    "gluten-free"
+  ],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 90,
+    "unit": "minutes"
+  },
+  "storage": "Refrigerate leftovers in an airtight container for up to 4 days. Can be reheated in the microwave or oven.",
+  "nutrition": {
+    "calories": 320,
+    "protein": 25,
+    "carbohydrates": 15,
+    "fat": 20,
+    "fiber": 2,
+    "sugar": 2,
+    "sodium": 450
+  },
+  "allIngredients": [
+    {
+      "item": "frozen hash brown potatoes",
+      "amount": 1,
+      "unit": "pound"
+    },
+    {
+      "item": "eggs",
+      "amount": 8,
+      "unit": "whole"
+    },
+    {
+      "item": "salt",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "pepper",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "ground beef",
+      "amount": 1,
+      "unit": "pound",
+      "description": "93% or leaner"
+    },
+    {
+      "item": "fresh sage",
+      "amount": 2,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "garlic powder",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "onion powder",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "crushed red pepper",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "reduced-fat dairy sour cream",
+      "amount": 1.5,
+      "unit": "cups"
+    },
+    {
+      "item": "2% reduced-fat milk",
+      "amount": 0.5,
+      "unit": "cup"
+    },
+    {
+      "item": "crumbled goat cheese",
+      "amount": 4,
+      "unit": "ounces"
+    },
+    {
+      "item": "green onions",
+      "amount": 0.5,
+      "unit": "cup"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "9-inch springform pan"
+    },
+    {
+      "item": "medium bowl"
+    },
+    {
+      "item": "large bowl"
+    },
+    {
+      "item": "large nonstick skillet"
+    },
+    {
+      "item": "whisk"
+    },
+    {
+      "item": "serving platter"
+    },
+    {
+      "item": "cooking spray"
+    }
+  ],
   "prelude": {
     "description": "A hearty breakfast casserole featuring a crispy hash brown crust filled with savory beef breakfast sausage, creamy goat cheese, and eggs. This make-ahead dish is perfect for brunch gatherings or meal prep. The recipe includes instructions for making your own beef breakfast sausage from scratch.",
     "images": [
@@ -14,10 +126,10 @@
       }
     ]
   },
-  "preheat": 218,
+  "preheat": 425,
   "steps": [
     {
-      "description": "Preheat oven to 425°F. Spray 9-inch springform pan with cooking spray. Squeeze excess moisture from potatoes. Combine potatoes, 1 egg, 1/2 teaspoon salt and 1/4 teaspoon pepper in medium bowl, tossing gently to coat. Press potato mixture onto bottom and up side of prepared pan. Do not place springform pan on baking sheet. Bake in 425°F oven 20 to 30 minutes until potatoes are crispy and brown. Reduce oven temperature to 375°F",
+      "description": "Preheat oven to 425\u00b0F. Spray 9-inch springform pan with cooking spray. Squeeze excess moisture from potatoes. Combine potatoes, 1 egg, 1/2 teaspoon salt and 1/4 teaspoon pepper in medium bowl, tossing gently to coat. Press potato mixture onto bottom and up side of prepared pan. Do not place springform pan on baking sheet. Bake in 425\u00b0F oven 20 to 30 minutes until potatoes are crispy and brown. Reduce oven temperature to 375\u00b0F",
       "ingredients": [
         {
           "item": "frozen hash brown potatoes",
@@ -153,7 +265,7 @@
       ]
     },
     {
-      "description": "Bake in 375°F oven 40 to 50 minutes or until eggs are set. Cool 10 to 15 minutes. Remove from pan; cut into wedges.",
+      "description": "Bake in 375\u00b0F oven 40 to 50 minutes or until eggs are set. Cool 10 to 15 minutes. Remove from pan; cut into wedges.",
       "cookTime": {
         "amount": 50,
         "unit": "minutes"
@@ -169,4 +281,4 @@
       ]
     }
   ]
-} 
+}

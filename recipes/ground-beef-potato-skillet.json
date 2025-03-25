@@ -2,7 +2,7 @@
   "author": "Christine Pittman",
   "recipe": "Ground Beef and Potato Skillet",
   "source": "https://cookthestory.com/ground-beef-and-potato-skillet/",
-  "spec": "v0.1.2",
+  "spec": "v0.1.3",
   "tags": "american,beef,main-dish,one-pan,potato,weeknight-meals",
   "servings": 4,
   "prelude": {
@@ -127,5 +127,91 @@
         }
       ]
     }
+  ],
+  "yield": "4 servings",
+  "difficulty": "intermediate",
+  "cuisine": "American",
+  "dietaryRestrictions": [
+    "gluten-free"
+  ],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 60,
+    "unit": "minutes"
+  },
+  "storage": "Refrigerate leftovers in an airtight container for up to 3 days.",
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbohydrates": 30,
+    "fat": 15,
+    "fiber": 3,
+    "sugar": 2,
+    "sodium": 450
+  },
+  "allIngredients": [
+    {
+      "item": "oil",
+      "amount": 1,
+      "unit": "tablespoon"
+    },
+    {
+      "item": "potatoes",
+      "amount": 1,
+      "unit": "pound"
+    },
+    {
+      "item": "lean ground beef",
+      "amount": 1,
+      "unit": "pound"
+    },
+    {
+      "item": "salt",
+      "amount": 1.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "pepper",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "onion",
+      "amount": 1,
+      "unit": "whole"
+    },
+    {
+      "item": "bell pepper",
+      "amount": 1,
+      "unit": "whole"
+    },
+    {
+      "item": "garlic",
+      "amount": 2,
+      "unit": "cloves"
+    },
+    {
+      "item": "smoked paprika",
+      "amount": 0.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "shredded Cheddar cheese",
+      "amount": 1,
+      "unit": "cup"
+    },
+    {
+      "item": "green onions",
+      "amount": 2,
+      "unit": "whole"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "large non-stick skillet"
+    },
+    {
+      "item": "wooden spoon"
+    }
   ]
-} 
+}

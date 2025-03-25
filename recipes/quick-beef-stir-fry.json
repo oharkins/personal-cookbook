@@ -1,7 +1,7 @@
 {
   "author": "inesgosner",
   "recipe": "Quick Beef Stir-Fry",
-  "spec": "v0.1.2",
+  "spec": "v0.1.3",
   "tags": "beef, stir-fry, asian, quick, dinner, main dish",
   "servings": 4,
   "prelude": {
@@ -108,5 +108,81 @@
         "unit": "minutes"
       }
     }
+  ],
+  "yield": "4 servings",
+  "difficulty": "intermediate",
+  "cuisine": "American",
+  "dietaryRestrictions": [
+    "gluten-free"
+  ],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 60,
+    "unit": "minutes"
+  },
+  "storage": "Refrigerate leftovers in an airtight container for up to 3 days.",
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbohydrates": 30,
+    "fat": 15,
+    "fiber": 3,
+    "sugar": 2,
+    "sodium": 450
+  },
+  "allIngredients": [
+    {
+      "item": "beef sirloin",
+      "amount": 1,
+      "unit": "pound"
+    },
+    {
+      "item": "broccoli florets",
+      "amount": 1.5,
+      "unit": "cups"
+    },
+    {
+      "item": "red bell pepper",
+      "amount": 1,
+      "unit": "whole"
+    },
+    {
+      "item": "carrots",
+      "amount": 2,
+      "unit": "whole"
+    },
+    {
+      "item": "green onion",
+      "amount": 1,
+      "unit": "whole"
+    },
+    {
+      "item": "garlic",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "vegetable oil",
+      "amount": 2,
+      "unit": "tablespoons"
+    },
+    {
+      "item": "soy sauce",
+      "amount": 2,
+      "unit": "tablespoons"
+    },
+    {
+      "item": "sesame seeds",
+      "amount": 2,
+      "unit": "tablespoons"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "wok"
+    },
+    {
+      "item": "skillet"
+    }
   ]
-} 
+}

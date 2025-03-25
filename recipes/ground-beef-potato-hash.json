@@ -1,0 +1,138 @@
+{
+  "author": "Shinee",
+  "recipe": "Ground Beef and Potato Hash",
+  "source": "https://busycooks.com/ground-beef-potato-hash/",
+  "spec": "v0.1.3",
+  "tags": "beef, potatoes, hash, skillet, quick-meal, comfort-food",
+  "servings": 6,
+  "yield": "6 servings",
+  "difficulty": "beginner",
+  "cuisine": "American",
+  "dietaryRestrictions": [
+    "gluten-free"
+  ],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 30,
+    "unit": "minutes"
+  },
+  "storage": "Refrigerate leftover hash in airtight container for up to 3 days. Can also be frozen for up to 3 months.",
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbohydrates": 30,
+    "fat": 15,
+    "fiber": 3,
+    "sugar": 2,
+    "sodium": 450
+  },
+  "allIngredients": [
+    {
+      "item": "lean ground beef",
+      "amount": 1,
+      "unit": "pounds"
+    },
+    {
+      "item": "potatoes",
+      "amount": 4,
+      "unit": "cups",
+      "description": "diced (any variety - russet, Yukon gold, red, or purple)"
+    },
+    {
+      "item": "beef broth",
+      "amount": 0.5,
+      "unit": "cups"
+    },
+    {
+      "item": "salt",
+      "amount": 1,
+      "unit": "teaspoons"
+    },
+    {
+      "item": "black pepper",
+      "amount": 0.5,
+      "unit": "teaspoons"
+    },
+    {
+      "item": "garlic powder",
+      "amount": 0.5,
+      "unit": "teaspoons"
+    },
+    {
+      "item": "onion powder",
+      "amount": 0.5,
+      "unit": "teaspoons"
+    },
+    {
+      "item": "paprika",
+      "amount": 0.25,
+      "unit": "teaspoons"
+    },
+    {
+      "item": "Worcestershire sauce",
+      "amount": 1,
+      "unit": "tablespoons"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "large skillet"
+    },
+    {
+      "item": "wooden spoon"
+    },
+    {
+      "item": "cutting board"
+    },
+    {
+      "item": "chef's knife"
+    }
+  ],
+  "prelude": {
+    "description": "This ground beef and potatoes hash is a quick and easy 30-minute meal that's full of flavor. As a family favorite recipe, it uses just a single skillet to make clean-up simple. Hamburger hash has never been so comforting or delicious.",
+    "images": [
+      {
+        "src": "https://busycooks.com/wp-content/uploads/2022/03/ground-beef-potato-hash-1.jpg",
+        "description": "Ground beef potato hash with an egg in a grey bowl"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Brown the ground beef with seasonings in a skillet over medium high heat. Break down the meat into fine pieces as you don't want any chunks. Cook until the beef is no longer red.",
+      "cookTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Transfer the cooked beef to a clean plate or bowl.",
+      "prepTime": {
+        "amount": 1,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Add diced potatoes into the now empty skillet and cook for about 4 minutes. Don't stir the potatoes too much as you want to develop a nice golden-brown crust.",
+      "cookTime": {
+        "amount": 4,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Add the ground beef back into the skillet, then add broth or water. Cook until the potatoes are cooked through, about 8 minutes.",
+      "cookTime": {
+        "amount": 8,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Optional: Add eggs by making wells in the mixture depending on how many eggs you wish to add. Add the eggs into the wells, cover with a lid and cook the eggs to your liking.",
+      "optional": true,
+      "cookTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    }
+  ]
+}

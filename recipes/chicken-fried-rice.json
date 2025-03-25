@@ -2,7 +2,7 @@
   "author": "Jaclyn",
   "recipe": "Chicken Fried Rice",
   "source": "https://www.cookingclassy.com/chicken-fried-rice/",
-  "spec": "v0.1.2",
+  "spec": "v0.1.3",
   "tags": "asian,healthy,main-dish,poultry",
   "servings": 3,
   "prelude": {
@@ -108,5 +108,84 @@
         "unit": "minutes"
       }
     }
+  ],
+  "yield": "3 servings",
+  "difficulty": "intermediate",
+  "cuisine": "American",
+  "dietaryRestrictions": [
+    "gluten-free"
+  ],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 60,
+    "unit": "minutes"
+  },
+  "storage": "Refrigerate leftovers in an airtight container for up to 3 days.",
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbohydrates": 30,
+    "fat": 15,
+    "fiber": 3,
+    "sugar": 2,
+    "sodium": 450
+  },
+  "allIngredients": [
+    {
+      "item": "boneless skinless chicken breasts",
+      "amount": 0.75,
+      "unit": "pound"
+    },
+    {
+      "item": "toasted sesame oil",
+      "amount": 1.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "canola oil",
+      "amount": 1.5,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "frozen peas and carrots blend",
+      "amount": 1.33,
+      "unit": "cups"
+    },
+    {
+      "item": "green onions",
+      "amount": 3,
+      "unit": "whole"
+    },
+    {
+      "item": "garlic",
+      "amount": 2,
+      "unit": "cloves"
+    },
+    {
+      "item": "large eggs",
+      "amount": 2,
+      "unit": "whole"
+    },
+    {
+      "item": "cooked long-grain brown rice",
+      "amount": 3,
+      "unit": "cups"
+    },
+    {
+      "item": "low-sodium soy sauce",
+      "amount": 3,
+      "unit": "tablespoon"
+    },
+    {
+      "item": "Sriracha",
+      "amount": 1,
+      "unit": "tablespoon",
+      "optional": true
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "large non-stick wok or skillet"
+    }
   ]
-} 
+}

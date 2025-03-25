@@ -1,0 +1,111 @@
+{
+  "author": "Sara Welch",
+  "recipe": "Smoked Chicken Wings",
+  "source": "https://www.dinneratthezoo.com/smoked-chicken-wings/",
+  "spec": "v0.1.3",
+  "tags": "appetizer, chicken, smoker, party food, game day",
+  "servings": 6,
+  "difficulty": "beginner",
+  "cuisine": "American",
+  "dietaryRestrictions": ["gluten-free", "low-carb"],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 130,
+    "unit": "minutes"
+  },
+  "storage": "Store in an airtight container for up to 3 days. Reheat in oven at 375°F for 8-10 minutes until crispy and warm.",
+  "nutrition": {
+    "calories": 353,
+    "protein": 22,
+    "carbohydrates": 19,
+    "fat": 19,
+    "sugar": 15,
+    "sodium": 578,
+    "potassium": 301
+  },
+  "allIngredients": [
+    {
+      "item": "chicken wings",
+      "amount": 3,
+      "unit": "pounds"
+    },
+    {
+      "item": "BBQ spice rub",
+      "amount": 3,
+      "unit": "tablespoons"
+    },
+    {
+      "item": "BBQ sauce",
+      "amount": 1,
+      "unit": "cup"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "smoker"
+    },
+    {
+      "item": "wood chips (apple, cherry, or hickory)"
+    },
+    {
+      "item": "sheet pan"
+    },
+    {
+      "item": "meat thermometer"
+    }
+  ],
+  "prelude": {
+    "description": "These smoked chicken wings are coated in a sweet and savory spice rub then smoked until tender. Add a coating of barbecue sauce and you've got an amazing appetizer or meal option with very little effort. Perfect for game day or any party!",
+    "images": [
+      {
+        "src": "https://www.dinneratthezoo.com/wp-content/uploads/2024/01/smoked-chicken-wings-1.jpg",
+        "description": "Smoked chicken wings with BBQ sauce"
+      }
+    ]
+  },
+  "steps": [
+    {
+      "description": "Preheat your smoker to 250 degrees F. Load the smoker with apple wood, cherry wood or hickory chips.",
+      "prepTime": {
+        "amount": 10,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Coat the chicken wings with the spice rub and place in the smoker.",
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Cook for 2 hours, refilling wood as needed, or until the internal temperature of the chicken wings registers 165 degrees F with a thermometer.",
+      "cookTime": {
+        "amount": 120,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Transfer the chicken wings to a sheet pan.",
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Optional: Preheat the broiler. Place the sheet pan of wings under the broiler and cook for 3-4 minutes or until skin is crispy.",
+      "cookTime": {
+        "amount": 4,
+        "unit": "minutes"
+      },
+      "optional": true
+    },
+    {
+      "description": "Brush the wings with the BBQ sauce and serve.",
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    }
+  ]
+} 

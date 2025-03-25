@@ -1,0 +1,96 @@
+{
+  "author": "Traeger Kitchen",
+  "recipe": "Roasted Sweet Potato Steak Fries",
+  "source": "https://www.traeger.com/recipes/sweet-potato-steak-fries",
+  "spec": "v0.1.3",
+  "tags": "vegetables, side dish, smoker, fries, sweet potato",
+  "servings": 4,
+  "difficulty": "beginner",
+  "cuisine": "American",
+  "dietaryRestrictions": ["vegetarian", "vegan", "gluten-free"],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 50,
+    "unit": "minutes"
+  },
+  "prelude": {
+    "description": "These hickory-roasted sweet potato fries will blow you away. Thick-cut sweet potatoes are given a smokin' kick with fresh rosemary for the perfect savory sidekick to any meal.",
+    "images": [
+      {
+        "src": "https://www.traeger.com/-/media/recipe-images/roasted-sweet-potato-steak-fries/roasted-sweet-potato-steak-fries.jpg",
+        "description": "Hickory-roasted sweet potato steak fries with rosemary"
+      }
+    ]
+  },
+  "allIngredients": [
+    {
+      "item": "sweet potatoes",
+      "amount": 3,
+      "unit": "medium"
+    },
+    {
+      "item": "olive oil",
+      "amount": 4,
+      "unit": "tablespoons"
+    },
+    {
+      "item": "kosher salt",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "freshly ground black pepper",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "fresh chopped rosemary",
+      "amount": 2,
+      "unit": "tablespoons"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "smoker"
+    },
+    {
+      "item": "baking sheet"
+    },
+    {
+      "item": "parchment paper"
+    },
+    {
+      "item": "hickory wood pellets"
+    }
+  ],
+  "steps": [
+    {
+      "description": "When ready to cook, set the smoker temperature to 450°F and preheat with the lid closed for 15 minutes. Line a baking sheet with parchment paper.",
+      "prepTime": {
+        "amount": 15,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Cut the sweet potatoes into wedges. Transfer to the prepared baking sheet and toss with the olive oil, salt, pepper and rosemary until well coated.",
+      "prepTime": {
+        "amount": 10,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Place the baking sheet on the grill grates and close the lid. Roast the sweet potato fries for 15 minutes, then flip and continue to roast until lightly browned and cooked through, 40-45 minutes total.",
+      "cookTime": {
+        "amount": 45,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Serve the fries with your favorite dipping sauce. Enjoy!",
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    }
+  ]
+} 

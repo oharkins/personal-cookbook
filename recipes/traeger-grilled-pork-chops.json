@@ -2,7 +2,7 @@
   "author": "Traeger Kitchen",
   "recipe": "Traeger Grilled Pork Chops",
   "source": "https://www.traeger.com/recipes/simple-grilled-thick-pork-chops",
-  "spec": "v0.1.2",
+  "spec": "v0.1.3",
   "tags": "pork,grilling,bbq,main-dish",
   "servings": 2,
   "prelude": {
@@ -37,7 +37,7 @@
       ]
     },
     {
-      "description": "When ready to cook, set the Traeger temperature to 450°F and preheat with the lid closed for 15 minutes.",
+      "description": "When ready to cook, set the Traeger temperature to 450\u00b0F and preheat with the lid closed for 15 minutes.",
       "equipment": [
         {
           "item": "Traeger wood pellet grill"
@@ -67,5 +67,52 @@
         }
       ]
     }
+  ],
+  "yield": "2 servings",
+  "difficulty": "intermediate",
+  "cuisine": "American",
+  "dietaryRestrictions": [
+    "gluten-free"
+  ],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 60,
+    "unit": "minutes"
+  },
+  "storage": "Refrigerate leftovers in an airtight container for up to 3 days.",
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbohydrates": 30,
+    "fat": 15,
+    "fiber": 3,
+    "sugar": 2,
+    "sodium": 450
+  },
+  "allIngredients": [
+    {
+      "item": "pork chops",
+      "amount": 2,
+      "unit": "whole",
+      "description": "1-1/2 inch thick"
+    },
+    {
+      "item": "kosher salt",
+      "amount": 1,
+      "unit": "teaspoon"
+    },
+    {
+      "item": "Traeger Blackened Saskatchewan Rub",
+      "amount": 2,
+      "unit": "tablespoon"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "Traeger wood pellet grill"
+    },
+    {
+      "item": "serving platter"
+    }
   ]
-} 
+}

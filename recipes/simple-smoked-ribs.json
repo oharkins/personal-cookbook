@@ -1,0 +1,113 @@
+{
+  "author": "Traeger Kitchen",
+  "recipe": "Traeger Ribs",
+  "source": "https://www.traeger.com/recipes/simple-smoked-ribs",
+  "spec": "v0.1.3",
+  "tags": "pork, ribs, smoker, bbq, main dish",
+  "servings": 6,
+  "difficulty": "intermediate",
+  "cuisine": "American",
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 255,
+    "unit": "minutes"
+  },
+  "prelude": {
+    "description": "Discover your new favorite meal with Traeger ribs. Simple and satisfying, these easy-to-make ribs start by smoking low n' slow, then get wrapped in foil and smothered in BBQ sauce for the perfect finish.",
+    "images": [
+      {
+        "src": "https://www.traeger.com/-/media/recipe-images/traeger-ribs/traeger-ribs.jpg",
+        "description": "Smoked baby back ribs with BBQ sauce"
+      }
+    ]
+  },
+  "allIngredients": [
+    {
+      "item": "baby back ribs",
+      "amount": 3,
+      "unit": "rack"
+    },
+    {
+      "item": "Traeger Pork & Poultry Rub",
+      "amount": 0.75,
+      "unit": "cup"
+    },
+    {
+      "item": "Traeger 'Que BBQ Sauce",
+      "amount": 0.75,
+      "unit": "cup"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "smoker"
+    },
+    {
+      "item": "heavy-duty aluminum foil"
+    },
+    {
+      "item": "meat thermometer"
+    },
+    {
+      "item": "cherry wood pellets"
+    }
+  ],
+  "steps": [
+    {
+      "description": "Peel membrane from the back side of ribs and trim any excess fat.",
+      "prepTime": {
+        "amount": 15,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Season both sides of ribs with Traeger Pork & Poultry Rub, about 1/4 cup per rack.",
+      "prepTime": {
+        "amount": 10,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "When ready to cook, set smoker temperature to 180°F and preheat, lid closed for 15 minutes.",
+      "prepTime": {
+        "amount": 15,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Place ribs on the grill and smoke for 3 to 4 hours.",
+      "cookTime": {
+        "amount": 240,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "When the internal temperature registers between 160°F to 165°F, remove ribs from the grill and increase smoker temperature to 350°F.",
+      "prepTime": {
+        "amount": 5,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Place about 1/4 cup of Traeger 'Que BBQ Sauce on a large sheet of heavy-duty aluminum foil, then place a rack of ribs meat-side down on top and wrap tightly. Repeat with each rack.",
+      "prepTime": {
+        "amount": 10,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Place the wrapped ribs back on the grill and cook for 45 minutes, or until internal temperature registers 204°F.",
+      "cookTime": {
+        "amount": 45,
+        "unit": "minutes"
+      }
+    },
+    {
+      "description": "Remove from grill and let rest 20 minutes before slicing. Enjoy!",
+      "prepTime": {
+        "amount": 20,
+        "unit": "minutes"
+      }
+    }
+  ]
+} 

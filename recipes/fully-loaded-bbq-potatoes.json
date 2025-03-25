@@ -2,7 +2,7 @@
   "author": "Malcom Reed",
   "recipe": "Fully Loaded BBQ Potatoes with Pulled Pork",
   "source": "https://howtobbqright.com/2021/05/20/fully-loaded-bbq-potatoes-with-pulled-pork/",
-  "spec": "v0.1.2",
+  "spec": "v0.1.3",
   "tags": "bbq,potato,pork,side-dish,grilling",
   "servings": 4,
   "prelude": {
@@ -16,7 +16,7 @@
   },
   "steps": [
     {
-      "description": "Preheat your grill to 400°F (204°C). Wash and dry the potatoes thoroughly.",
+      "description": "Preheat your grill to 400\u00b0F (204\u00b0C). Wash and dry the potatoes thoroughly.",
       "ingredients": [
         {
           "item": "large russet potatoes",
@@ -101,5 +101,76 @@
         }
       ]
     }
+  ],
+  "yield": "4 servings",
+  "difficulty": "intermediate",
+  "cuisine": "American",
+  "dietaryRestrictions": [
+    "gluten-free"
+  ],
+  "temperatureUnit": "fahrenheit",
+  "totalTime": {
+    "amount": 60,
+    "unit": "minutes"
+  },
+  "storage": "Refrigerate leftovers in an airtight container for up to 3 days.",
+  "nutrition": {
+    "calories": 350,
+    "protein": 25,
+    "carbohydrates": 30,
+    "fat": 15,
+    "fiber": 3,
+    "sugar": 2,
+    "sodium": 450
+  },
+  "allIngredients": [
+    {
+      "item": "large russet potatoes",
+      "amount": 4,
+      "unit": "whole"
+    },
+    {
+      "item": "olive oil",
+      "amount": 2,
+      "unit": "tablespoon"
+    },
+    {
+      "item": "BBQ rub",
+      "amount": 2,
+      "unit": "tablespoon"
+    },
+    {
+      "item": "shredded cheddar cheese",
+      "amount": 2,
+      "unit": "cups"
+    },
+    {
+      "item": "green onions",
+      "amount": 4,
+      "unit": "whole"
+    },
+    {
+      "item": "pulled pork",
+      "amount": 2,
+      "unit": "cups"
+    },
+    {
+      "item": "BBQ sauce",
+      "amount": 0.5,
+      "unit": "cup"
+    },
+    {
+      "item": "green onions",
+      "amount": 2,
+      "unit": "whole"
+    }
+  ],
+  "allEquipment": [
+    {
+      "item": "grill"
+    },
+    {
+      "item": "fork"
+    }
   ]
-} 
+}
