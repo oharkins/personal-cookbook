@@ -1,7 +1,6 @@
 {
   "author": "John Mitzewich",
   "recipe": "Chef John's Peanut Curry Chicken",
-  "spec": "v0.1.3",
   "tags": "curry, chicken, thai, peanut, main dish, dinner",
   "servings": 8,
   "prelude": {
